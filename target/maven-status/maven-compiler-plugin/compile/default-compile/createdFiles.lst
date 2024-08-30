@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 com\darwuich\compensapp\compensaap\JakartaRestConfiguration.class
 com\darwuich\compensapp\compensaap\servlets\LoginServlet.class
 com\darwuich\compensapp\compensaap\resources\JakartaEE10Resource.class
+=======
+com\darwuich\compensapp\compensapp\Compensapp.class
+>>>>>>> e853a56ea40e3290d33cf0c8005b135f5457c842
